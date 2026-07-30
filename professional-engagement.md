@@ -65,4 +65,5 @@ Coming soon
 
 ## Some Snapshots
 
-Coming soon.
+<img width="206" height="206" alt="M Phil Photo" src="https://github.com/user-attachments/assets/5f006b29-d9ea-438b-ad23-b18411c4e029" />
+
