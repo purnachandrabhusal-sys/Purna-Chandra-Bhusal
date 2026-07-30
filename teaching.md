@@ -30,11 +30,13 @@ A full teaching statement, sample syllabi, and student evaluations are available
 Fall 2023–present, Department of English, The University of Texas at El Paso
 Instructor of record for first-year writing across in-person, hybrid, and fully online modalities
 
-Writing Consultant, University Writing Center, The University of Texas at El Paso
+Designed and taught a Community Engagement and Literacy (CEL) section of RWS 1302 (Spring 2025), partnering students with local communities and non-governmental organizations in El Paso for community-engaged writing projects.
+
+
+**Writing Consultant**, University Writing Center, The University of Texas at El Paso
 Fall 2022–Fall 2023: Consulted with graduate and undergraduate writers across disciplines, including at the
 UTEP Graduate Writing Retreats (September and November 2022).
 
-Designed and taught a Community Engagement and Literacy (CEL) section of RWS 1302 (Spring 2025), partnering students with local communities and non-governmental organizations in El Paso for community-engaged writing projects.
 
 Developed Purna.Online, an open-access web resource supporting multilingual and ESL
 student writers in developmental English.
