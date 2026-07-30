@@ -36,7 +36,7 @@ in the same handbook.
 **Secondary (High School) Level Teaching**
 - English Teacher, Gyan Sindhu Academy, Gongabu, Kathmandu, Nepal: 2015-2017
 - English Teacher, Triton  Secondary School, Tinkune, Kathmandu, Nepal: 2016/17.
--  
+  
 **Primary (Elementary) Level Teaching**: 
 - Social Studies (lower secondary), Siddhartha English Boarding School, Butwal, Rupandehi, Nepal (2005);
 - English (primary), Bright Star English Boarding School, Rupandehi, Nepal (2003)
