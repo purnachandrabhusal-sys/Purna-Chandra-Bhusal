@@ -63,58 +63,5 @@ Coming soon
      writing pedagogy, CCCC 2026" tells them a great deal.
      ================================================================ -->
 
-## In the field
+## Gallery
 
-<style>
-  .gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
-    gap: 1.75rem 1.5rem;
-    max-width: none;
-    margin: 1.5rem 0 0;
-    padding: 0;
-    list-style: none;
-  }
-  .gallery figure { margin: 0; }
-  .gallery img {
-    width: 100%;
-    height: 14rem;
-    object-fit: cover;
-    display: block;
-    border-radius: 3px;
-    border: 1px solid var(--rule);
-    background: var(--wash);
-  }
-  .gallery figcaption {
-    margin-top: 0.6rem;
-    font-size: 0.92rem;
-    line-height: 1.45;
-    color: var(--graphite);
-    border-left: 2px solid var(--rubric);
-    padding-left: 0.7rem;
-  }
-</style>
-
-<div class="gallery">
-
-  <figure>
-    <img src="{{ '/assets/img/photo-one.jpg' | relative_url }}" alt="[Plain description of what is happening in the photo]" loading="lazy">
-    <figcaption>[Caption — what this was, where, and when. e.g. Presenting on translingual revision practices at CCCC, Chicago, 2026.]</figcaption>
-  </figure>
-
-  <figure>
-    <img src="{{ '/assets/img/photo-two.jpg' | relative_url }}" alt="[Plain description of what is happening in the photo]" loading="lazy">
-    <figcaption>[Caption — what this was, where, and when.]</figcaption>
-  </figure>
-
-  <figure>
-    <img src="{{ '/assets/img/photo-three.jpg' | relative_url }}" alt="[Plain description of what is happening in the photo]" loading="lazy">
-    <figcaption>[Caption — what this was, where, and when.]</figcaption>
-  </figure>
-
-</div>
-
-<!-- If you have fewer than three photos, delete the extra <figure>
-     blocks — an empty photo frame looks worse than no photo at all.
-     If you have no photos yet, delete everything from "## In the field"
-     down to here, and add it back when you do. -->
