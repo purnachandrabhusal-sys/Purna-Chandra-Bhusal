@@ -65,6 +65,6 @@ Coming soon
 
 ## Some Snapshots
 
-<img width="100" height="100" alt="MLA 3" src="https://github.com/user-attachments/assets/e05fd26d-db61-44d1-8a2b-aba76a392b01" />
+<img width="200" height="200" alt="MLA 3" src="https://github.com/user-attachments/assets/e05fd26d-db61-44d1-8a2b-aba76a392b01" />
 
 
