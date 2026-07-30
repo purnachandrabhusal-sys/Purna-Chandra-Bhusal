@@ -30,18 +30,20 @@ Handbook; mentored a student whose literacy narrative was published as a model t
 in the same handbook.
 
 **English Lecturer**
-Madan Bhandari Memorial College, Kathmandu, Nepal: 2010–2015
-• Taught compulsory English (Grades XI–XII) and graduate seminars in rhetoric/composition
-and literary theory for the M.A. in English.
-• Introduced research-based writing instruction and facilitated thesis-writing workshops;
-supervised two M.A. theses to completion.
-
-**Additional teaching**: Social Studies (lower secondary), Siddhartha English Boarding
-School, Butwal, Nepal (2005); English (primary), Bright Star English Boarding School,
-Rupandehi, Nepal (2003)
+- Madan Bhandari Memorial College, Kathmandu, Nepal: 2010–2015
+     - Taught compulsory English (Grades XI–XII) and graduate seminars in rhetoric/composition and literary theory for the M.A. in English.
+     - Introduced research-based writing instruction and facilitated thesis-writing workshops;
+     - supervised two M.A. theses to completion.
+     - 
+**Secondary Level Teacher**
+- English Teacher, Gyan Sindhu Academy, Gongabu, Kathmandu, Nepal: 2015-2017
+- English Teacher, Triton  Secondary School, Tinkune, Kathmandu, Nepal: 2016/17.
+-  
+**Primary (Elementary) Level Teaching**: 
+- Social Studies (lower secondary), Siddhartha English Boarding School, Butwal, Rupandehi, Nepal (2005);
+- English (primary), Bright Star English Boarding School, Rupandehi, Nepal (2003)
 
 ## Leadership/Administrative Roles
-
-To be added.
+- Principal
 
 
