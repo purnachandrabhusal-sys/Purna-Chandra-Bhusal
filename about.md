@@ -26,5 +26,4 @@ I am a PhD candidate in rhetoric and writing studies at the University of Texas 
 - Decolonial Education
 
 ## Contact
-
-The fastest way to reach me is email: [{{pbhusal@miners.utep.edu}}](mailto:{{purnachandra.bhusal@gmail.com}}). My full record is in my [CV (PDF)]({{ site.cv_file | relative_url }}).
+ pbhusal@miners.utep.edu and/or purnachandra.bhusal@gmail.com
