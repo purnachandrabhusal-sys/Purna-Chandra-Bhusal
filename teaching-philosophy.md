@@ -3,7 +3,7 @@ layout: default
 title: Teaching Philosophy
 lede: "How I teach writing, and why."
 permalink: /teaching-philosophy/
-description: "Teaching philosophy statement of Purna [Surname] — Rhetoric and Writing Studies, The University of Texas at El Paso."
+description: "Teaching philosophy statement of Purna Chandra Bhusal — Rhetoric and Writing Studies, The University of Texas at El Paso."
 ---
 
 
