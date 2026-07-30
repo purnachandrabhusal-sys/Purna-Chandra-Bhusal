@@ -28,13 +28,18 @@ A full teaching statement, sample syllabi, and student evaluations are available
 ## Teaching Experience
 **Assistant Instructor**, First-Year Composition (RWS 1301 and 1302)
 Fall 2023–present, Department of English, The University of Texas at El Paso
-• Instructor of record for first-year writing across in-person, hybrid, and fully online modalities
-• Designed and taught a Community Engagement and Literacy (CEL) section of RWS
-1302 (Spring 2025), partnering students with local communities and non-governmental
-organizations in El Paso for community-engaged writing projects.
-• Developed Purna.Online, an open-access web resource supporting multilingual and ESL
+Instructor of record for first-year writing across in-person, hybrid, and fully online modalities
+
+Writing Consultant, University Writing Center, The University of Texas at El Paso
+Fall 2022–Fall 2023: Consulted with graduate and undergraduate writers across disciplines, including at the
+UTEP Graduate Writing Retreats (September and November 2022).
+
+Designed and taught a Community Engagement and Literacy (CEL) section of RWS 1302 (Spring 2025), partnering students with local communities and non-governmental organizations in El Paso for community-engaged writing projects.
+
+Developed Purna.Online, an open-access web resource supporting multilingual and ESL
 student writers in developmental English.
-• Authored a classroom discussion activity published in the UTEP First-Year Composition
+
+Authored a classroom discussion activity published in the UTEP First-Year Composition
 Handbook; mentored a student whose literacy narrative was published as a model text
 in the same handbook.
 
@@ -44,20 +49,12 @@ Madan Bhandari Memorial College, Kathmandu, Nepal: 2010–2015
 and literary theory for the M.A. in English.
 • Introduced research-based writing instruction and facilitated thesis-writing workshops;
 supervised two M.A. theses to completion.
+
 **Additional teaching**: Social Studies (lower secondary), Siddhartha English Boarding
 School, Butwal, Nepal (2005); English (primary), Bright Star English Boarding School,
 Rupandehi, Nepal (2003)
 
-## Evidence of effectiveness
+## Leadership/Administrative Roles
 
-<!-- EDIT: 2–3 bullet points of concrete, verifiable evidence.
-     Numbers and specifics beat adjectives. Delete what doesn't apply. -->
 
-- Student evaluations averaging [X.X / 5] across [N] sections ([N] students total).
-- [A concrete outcome — e.g., redesigned the RWS 1301 curriculum module on multimodal argument, since adopted by N sections.]
-- [A teaching award, certification, or observation letter — link or cite it.]
 
-## Mentoring &amp; service to teaching
-
-- [E.g., Writing center consultant, N hours/week, Years]
-- [E.g., Mentored N new graduate instructors as part of …]
