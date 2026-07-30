@@ -15,7 +15,7 @@ description: "Teaching philosophy statement of Purna [Surname] — Rhetoric and 
 **My Teaching Philosophy**
 
 
-There are four underlying principles that inform my writing pedagogy: (1) meaningfulness, (2) students' agency, (3) rhetorical awareness, and (4) wisdom. These principles inform my design of syllabi, discussions, and assignments. 
+There are four underlying principles that inform my writing pedagogy: (1) writing is a meaningful activity, (2) writing fosters students' agency, (3) writing is guided by rhetorical awareness, and (4) writing is a wise activity. Grounded in my years of higher education journey, teaching experiences and reflections, these principles inform my design of syllabi, discussions, and assignments. 
 
 Meaningfulness, for me, means finding (or better creating) a justifiable and motivating rationale behind every writing that students do. The principle of meaningfulness in teaching writing encourages me toward inventing a driving force that motivates and fully engages students in 'their' writing. In my opinion, as a facilitator, it is my responsibility to discuss with students why each act of writing matters. I invite students to think about compelling writing topics that they feel they are connected to. I invite students to brainstorm possible topics regardless of the genre and modes they are working in. In my experience, teaching writing is successful when I design peer discussion sessions followed by writing activities that give students opportunities to write or collaborate on topics that truly interest them. I use the principle of meaningfulness to collaborate with students to answer the question of 'why learn writing' or 'why write'. 
 
