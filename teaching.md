@@ -17,11 +17,6 @@ description: "Teaching portfolio of Purna [Surname] — courses, philosophy, and
 
 - Designed and taught a Community Engagement and Literacy (CEL) section of RWS 1302 (Spring 2025), partnering students with local communities and non-governmental organizations in El Paso for community-engaged writing projects.
 
-
-**Writing Consultant**, University Writing Center, The University of Texas at El Paso
-- Fall 2022–Fall 2023: Consulted with graduate and undergraduate writers across disciplines, including at the UTEP Graduate Writing Retreats (September and November 2022).
-
-
 - Developed Purna.Online, an open-access web resource supporting multilingual and ESL
 student writers in developmental English.
 
@@ -29,13 +24,16 @@ student writers in developmental English.
 Handbook; mentored a student whose literacy narrative was published as a model text
 in the same handbook.
 
+**Writing Consultant**, University Writing Center, The University of Texas at El Paso
+- Fall 2022–Fall 2023: Consulted with graduate and undergraduate writers across disciplines, including at the UTEP Graduate Writing Retreats (September and November 2022).
+
 **English Lecturer**
 - Madan Bhandari Memorial College, Kathmandu, Nepal: 2010–2015
      - Taught compulsory English (Grades XI–XII) and graduate seminars in rhetoric/composition and literary theory for the M.A. in English.
      - Introduced research-based writing instruction and facilitated thesis-writing workshops;
      - supervised two M.A. theses to completion.
      - 
-**Secondary Level Teacher**
+**Secondary (High School) Level Teaching**
 - English Teacher, Gyan Sindhu Academy, Gongabu, Kathmandu, Nepal: 2015-2017
 - English Teacher, Triton  Secondary School, Tinkune, Kathmandu, Nepal: 2016/17.
 -  
