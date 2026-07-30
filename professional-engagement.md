@@ -65,5 +65,6 @@ Coming soon
 
 ## Some Snapshots
 
-<img width="206" height="206" alt="M Phil Photo" src="https://github.com/user-attachments/assets/5f006b29-d9ea-438b-ad23-b18411c4e029" />
+<img width="1536" height="2048" alt="MLA 3" src="https://github.com/user-attachments/assets/e05fd26d-db61-44d1-8a2b-aba76a392b01" />
+
 
