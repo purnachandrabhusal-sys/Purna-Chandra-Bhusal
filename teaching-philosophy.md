@@ -7,51 +7,18 @@ description: "Teaching philosophy statement of Purna [Surname] — Rhetoric and 
 ---
 
 <!-- ================================================================
-     TEACHING PHILOSOPHY
-     Replace every paragraph below with your own words. The prompts in
-     <!-- comment marks --> are notes to yourself — they never appear on
-     the website, so you can leave them in place while you draft.
+     **TEACHING PHILOSOPHY**
+     
+    There are four underlying principles that inform my writing pedagogy: (1) meaningfulness, (2) students' agency, (3) rhetorical awareness, and (4) wisdom. These principles inform my design of syllabi, discussions, and assignments. 
+    
+The principle of meaningfulness in teaching writing encourages me toward inventing a driving force that motivates and engages students in 'their' writing. Meaningfulness, for me, means finding (or better creating) a justifiable and motivating rationale behind every writing that students do. In my opinion, as a facilitator, it is my responsibility to discuss with students why each act of writing matters. Therefore, I invite students to think about compelling writing topics that they feel they are connected to. In my experience, teaching writing is successful when I design discussion sessions followed by writing activities that give students opportunities to write or collaborate on topics that truly interest them. I use the principle of meaningfulness to collaborate with the students to find the answer to the question of 'why learn writing' or 'why write'.
 
-     Aim for 500–700 words total (one printed page). Search committees
-     read dozens of these; the ones that stand out are specific, name
-     real assignments and real classrooms, and sound like a person
-     rather than a mission statement.
-     ================================================================ -->
+In my understanding, meaningfulness, however, does not exist in isolation but is essentially connected to students' agency. The principle of agency in writing refers to students' independent, critical, and logical thinking patterns that appear in/through their writing. I foster students' agency by inviting them to discuss and listen to topics of their writing interests from multiple perspectives, through another pair of eyes, in most cases from other classmates’ perspectives. I invite all students to actively take part in classroom discussion so that they can rethink and rationalize their own ideas and insights, which are the sum and substance of their writing. I believe that it is the instructor’s responsibility to incorporate the principle of agential writing by creating more choices of writing for each student to articulate their unique voices/interests/purpose in their writing. I promote agential writing by discussing student-generated writing topics from many angles through activities like group discussion, quizzes, peer review, discussion board replies, etc. I use the principle of agency to address the question of how to think before or while writing.
 
-<!-- OPENING — one or two sentences that state your central commitment as
-     a teacher. Avoid opening with a quotation or a general truth about
-     education. Start with what you believe and do. -->
+Meaningful and agential writing is a rhetorical act. Therefore, every act of teaching writing or writing necessitates rhetorical awareness. The principle of rhetorical awareness means building a keen sense of the rhetorical situation before writing takes place. Rhetorical awareness primarily deals with the writer’s purpose or motive and the audience, even though the medium, genre, tone, and modality also come into play. Rhetorical awareness also incorporates organization, language, clarity, (multi)modality, accessibility, and more. I use the principle of rhetorical awareness to offer writing insights across stages of the writing process, from brainstorming to editing. I teach rhetorical awareness by inviting students to share the text they like most and why. I also reference popular texts and discuss the rhetorical awareness they demonstrate. I use the principle of rhetorical awareness to address the question of fully situating the text in context and achieving the purpose of writing.
 
-[State your core conviction about teaching writing in one or two sentences. For example: what you take writing to be, and what follows from that for a classroom.]
+More recently, I added one more principle of teaching writing: wisdom. In my understanding, meaningfulness, agency, and rhetorical acts can be fully operationalized only through the principle or lens of wisdom. Wisdom, as an act of doing or being just and virtuous in words, thoughts, and actions across contexts, is inherently human, whether innate or learned. In the age of generative artificial intelligence (Gen AI), the principle of wisdom entails self-discipline, academic integrity, ethics, honesty, kindness, empathy, impact assessment, etc. It further aims to accommodate all kinds of learning or writing dis/abilities. I use the wisdom lens in the writing classroom, inviting students to discuss all topics and draw upon various texts, digital or non-digital, literary or non-literary. This is the lens I use to discuss ethics and academic integrity regarding the use of Gen AI in writing classrooms. I use the principle of wisdom to address the questions of ethical choices in writing.
 
-<!-- WHAT IT LOOKS LIKE IN PRACTICE — the heart of the statement. Two or
-     three paragraphs, each anchored in something concrete: an
-     assignment you designed, a revision process you run, a moment a
-     student surprised you. Concrete beats abstract every time. -->
-
-[Paragraph on how this conviction shapes the way you run a class. Name a specific course and a specific assignment — what students do, and what it asks of them.]
-
-[Paragraph on how you teach revision, feedback, or process — again with a concrete practice a reader can picture. What does a workshop day actually look like in your classroom?]
-
-[Paragraph on the students you teach and what you have learned from them. At UTEP this is a genuine strength: a majority-Hispanic, largely bilingual, many first-generation student body on the border. Say specifically how your teaching draws on the languages and knowledge students bring, rather than treating them as gaps to correct.]
-
-<!-- ASSESSMENT — brief but expected. How do you evaluate writing in a
-     way that is consistent with everything above? -->
-
-[Short paragraph on how you assess student writing — labor-based grading, portfolios, contract grading, rubrics you designed, whatever you actually use — and why it follows from your approach rather than working against it.]
-
-<!-- EVIDENCE — one short paragraph. Committees want proof, not claims.
-     Evaluation numbers, an award, a curriculum change adopted by
-     others, a student outcome you can point to. -->
-
-[Short paragraph offering evidence that this works: evaluation scores, a teaching award, a course redesign others adopted, or a documented student outcome.]
-
-<!-- CLOSING — where you are going. One or two sentences on what you
-     want to teach or build next, ideally something a hiring department
-     could imagine you doing for them. -->
-
-[One or two sentences on the courses you are prepared to teach and what you would want to develop in a new department.]
-
----
+Despite the four principles or pedagogical approaches I discussed, I believe that teaching writing is an ever-evolving philosophy in which an instructor’s job is to revise pedagogical approaches to achieve learning outcomes across changing institutional, departmental, curricular, and intellectual settings.
 
 Sample syllabi, assignment sequences, and student evaluations are available on request, and a summary appears in my [CV (PDF)]({{ site.cv_file | relative_url }}). Back to the [teaching portfolio]({{ '/teaching/' | relative_url }}).
