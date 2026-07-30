@@ -12,21 +12,20 @@ description: "Teaching portfolio of Purna [Surname] — courses, philosophy, and
 
 ## Teaching Experience
 **Assistant Instructor**, First-Year Composition (RWS 1301 and 1302)
-Fall 2023–present, Department of English, The University of Texas at El Paso
-Instructor of record for first-year writing across in-person, hybrid, and fully online modalities
+- Fall 2023–present, Department of English, The University of Texas at El Paso
+- Instructor of record for first-year writing across in-person, hybrid, and fully online modalities
 
-Designed and taught a Community Engagement and Literacy (CEL) section of RWS 1302 (Spring 2025), partnering students with local communities and non-governmental organizations in El Paso for community-engaged writing projects.
+- Designed and taught a Community Engagement and Literacy (CEL) section of RWS 1302 (Spring 2025), partnering students with local communities and non-governmental organizations in El Paso for community-engaged writing projects.
 
 
 **Writing Consultant**, University Writing Center, The University of Texas at El Paso
-Fall 2022–Fall 2023: Consulted with graduate and undergraduate writers across disciplines, including at the
-UTEP Graduate Writing Retreats (September and November 2022).
+- Fall 2022–Fall 2023: Consulted with graduate and undergraduate writers across disciplines, including at the UTEP Graduate Writing Retreats (September and November 2022).
 
 
-Developed Purna.Online, an open-access web resource supporting multilingual and ESL
+- Developed Purna.Online, an open-access web resource supporting multilingual and ESL
 student writers in developmental English.
 
-Authored a classroom discussion activity published in the UTEP First-Year Composition
+- Authored a classroom discussion activity published in the UTEP First-Year Composition
 Handbook; mentored a student whose literacy narrative was published as a model text
 in the same handbook.
 
