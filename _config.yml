@@ -1,0 +1,42 @@
+# ============================================================
+#  PURNA.ONLINE — SITE SETTINGS
+#  Everything between the quotes below can be safely edited.
+#  Changing a line here updates it across the whole website.
+# ============================================================
+
+# Your name exactly as you want it displayed
+author_name: "Purna [Surname]"
+
+# The one-line description under your name (home page + browser tab)
+tagline: "Rhetoric & Writing Studies · The University of Texas at El Paso"
+
+# Short description used by Google and social-media previews
+description: "Academic portfolio of Purna [Surname], PhD in Rhetoric and Writing Studies from The University of Texas at El Paso — publications, teaching, and CV."
+
+# Contact + profile links (leave the quotes; paste the full web address inside)
+email: "hello@purna.online"
+scholar_url: ""          # e.g. https://scholar.google.com/citations?user=XXXX
+orcid_url: ""            # e.g. https://orcid.org/0000-0000-0000-0000
+linkedin_url: ""         # optional
+academia_url: ""         # optional (Academia.edu or Humanities Commons)
+
+# The CV file. To update your CV, upload a new PDF into the
+# assets/cv folder USING THIS EXACT SAME FILE NAME — nothing else changes.
+cv_file: "/assets/cv/Purna-CV.pdf"
+cv_updated: "July 2026"
+
+# ------------------------------------------------------------
+#  TECHNICAL SETTINGS — please do not edit below this line
+# ------------------------------------------------------------
+url: "https://purna.online"
+baseurl: ""
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-sitemap
+exclude:
+  - SETUP-GUIDE.md
+  - HOW-TO-UPDATE.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
