@@ -12,7 +12,7 @@ description: "Teaching philosophy statement of Purna [Surname] — Rhetoric and 
  
     
 
-**Teaching Philosophy**
+**My Teaching Philosophy**
 
 
 There are four underlying principles that inform my writing pedagogy: (1) meaningfulness, (2) students' agency, (3) rhetorical awareness, and (4) wisdom. These principles inform my design of syllabi, discussions, and assignments. 
