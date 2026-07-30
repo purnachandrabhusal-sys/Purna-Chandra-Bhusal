@@ -63,5 +63,6 @@ Coming soon
      writing pedagogy, CCCC 2026" tells them a great deal.
      ================================================================ -->
 
-## Gallery
+## Some Snapshots
 
+Coming soon.
