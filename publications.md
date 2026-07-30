@@ -68,15 +68,20 @@ ciplinary Journal of Innovation in Nepalese Academia, 2(2), 247–263. https://d
 17. Bhusal, P. C. (2023). Loss and recovery of ‘substance’ in Greco-Roman rhetoric. The Batuk, 
 9(2), 63–75. https://doi.org/10.3126/batuk.v9i2.57034
 
-## Book chapters
+## Book Reviews
+1. Bhusal, P. C. (2026). Contemporary literary and cultural theory: concepts and applications: edited by Puspa Damai, London and New York, Routledge, 2025, 240 pp., 
+£124.00 (hardback), ISBN 9781032993782. Global South Literary Studies, 1(3), 297–299. 
+https://doi.org/10.1080/30684781.2026.2624541 
+2. Bhusal, P. C. (2024). Rhetoric in composition: Teaching writing to foster agency and indepen
+dence in students [Review of the book Writing Rhetorically: Fostering Responsive Thinkers 
+and Communicators, by J. Fletcher]. Revista Latinoamericana de Estudios de la Escritura, 
+1(1), 149–152. https://doi.org/10.37514/RLE-J.2024.1.1.08
 
-- [Surname], P. ([Year]). [Chapter title]. In [Editor Name] (Ed.), *[Book Title]* (pp. [xx–xx]). [Publisher].
+
 
 ## Under review &amp; in progress
 
-<!-- Committees like seeing a pipeline. List the stage honestly:
-     "under review", "revise & resubmit", or "in preparation".
-     You may omit the journal name for items under review. -->
+
 
 - [Surname], P. [Article title]. *[Journal Name]* — revise &amp; resubmit.
 - [Surname], P. [Article title] — in preparation.
