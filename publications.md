@@ -77,19 +77,25 @@ dence in students [Review of the book Writing Rhetorically: Fostering Responsive
 and Communicators, by J. Fletcher]. Revista Latinoamericana de Estudios de la Escritura, 
 1(1), 149–152. https://doi.org/10.37514/RLE-J.2024.1.1.08
 
+## Under Review and In-Progress
 
 
-## Under review &amp; in progress
+## Conference Presentations
 
-
-
-- [Surname], P. [Article title]. *[Journal Name]* — revise &amp; resubmit.
-- [Surname], P. [Article title] — in preparation.
-
-## Conference presentations
-
-- [Surname], P. ([Year, Month]). *[Presentation title]*. [Conference name — e.g., Conference on College Composition and Communication], [City, State].
-- [Surname], P. ([Year, Month]). *[Presentation title]*. [Conference name], [City, State].
+1.	Bhusal, P. C. (2026, April). Dreams and dreamers: Findings from the Scholars for the Dream study. Special Interest Group session, Conference on College Composition and Communication (CCCC), Cleveland, OH.
+2.	Bhusal, P. C. (2026, January 10). Doing digital multimodal: Pedagogical innovations in the age of gen AI. Modern Language Association (MLA) Convention, Toronto, Canada.
+3.	Bhusal, P. C. (2025, April 9–12). Techno-oppression versus digital love: Remixing coun-terstories in FYC classrooms. Conference on College Composition and Communication (CCCC), Baltimore, MD.
+4.	Bhusal, P. C. (2025, April 9–12). Spiritual intelligence in FYC pedagogy: Karma Yoga as an antidote to mid-term deficiency syndrome. Sponsored panel, Assembly for Expanded Perspectives on Learning (AEPL), CCCC, Baltimore, MD.
+5.	Bhusal, P. C. (2025, April 9–12). Transition angst and institutional responsibility: Transition experiences of students from the Global South in US universities. Sponsored panel, Doctoral Consortium in Rhetoric and Composition, CCCC, Baltimore, MD.
+6.	Bhusal, P. C. (2025, January 9–12). Professional expertise versus student literacies: Inventing counterstorying in composition classrooms. Modern Language Association (MLA) Convention, New Orleans, LA.
+7.	Bhusal, P. C. (2024, May 24–27). Rhetoric for social justice: Rhetorical listening to the words of Krishna in the Bhagavad Gita. Rhetoric Society of America (RSA) Conference, Denver, CO.
+8.	Bhusal, P. C. (2024, April 3–6). Scarcity versus abundance: (Re)Sourcing critical counterstories in first-year composition classrooms. Conference on College Composition and Communication (CCCC), Spokane, WA.
+9.	Bhusal, P. C. (2024, March 16). Pandemic pedagogy in Nepal: Stories of Arjuna(s) and 
+counterstories of Ekalavya(s). Nepalese Student Association (NeSA) 15th International Conference, New Mexico State University, NM.
+10.	Bhusal, P. C. (2023, October 12–14). Writing to re-define ‘incest’ for a casteless community. Coalition for Community Writing, Denver, CO.
+11.	Bhusal, P. C. (2023, April 21–23). Pedagogy of unlearning at the university writing center: A collaborative process of becoming. East Central Writing Centers Association (ECWCA), Purdue University, West Lafayette, IN.
+12.	Bhusal, P. C. (2023, March 18). Rhetoric of collaboration among the Nepalese community (ies) in Norway during the pandemic. Nepalese Student Association (NeSA) 14th International Conference, New Mexico State University, NM.
+13.	Bhusal, P. C. (2020, January 9–10). A non-Western meta-perspective on Indigenous Sami identity. The Nordic Research Network for Sami and Indigenous Peoples’ Law (NORSIL), The Arctic University of Norway, Norway.
 
 ---
 
