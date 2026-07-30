@@ -10,6 +10,8 @@ description: "Professional engagement of Purna [Surname] — conference service,
      PROFESSIONAL ENGAGEMENT
      Coming soon
      ================================================================ -->
+<img width="1920" height="908" alt="CCW Image" src="https://github.com/user-attachments/assets/140f4ac2-351c-4453-8196-b40ae0d08010" />
+
 
 ## Invited talks &amp; workshops
 
