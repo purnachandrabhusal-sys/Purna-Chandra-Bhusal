@@ -96,7 +96,3 @@ counterstories of Ekalavya(s). Nepalese Student Association (NeSA) 15th Internat
 11.	Bhusal, P. C. (2023, April 21–23). Pedagogy of unlearning at the university writing center: A collaborative process of becoming. East Central Writing Centers Association (ECWCA), Purdue University, West Lafayette, IN.
 12.	Bhusal, P. C. (2023, March 18). Rhetoric of collaboration among the Nepalese community (ies) in Norway during the pandemic. Nepalese Student Association (NeSA) 14th International Conference, New Mexico State University, NM.
 13.	Bhusal, P. C. (2020, January 9–10). A non-Western meta-perspective on Indigenous Sami identity. The Nordic Research Network for Sami and Indigenous Peoples’ Law (NORSIL), The Arctic University of Norway, Norway.
-
----
-
-A complete list with abstracts is in my [CV (PDF)]({{ site.cv_file | relative_url }}){% if site.scholar_url != "" %}, and citation records are on my [Google Scholar profile]({{ site.scholar_url }}){% endif %}.
