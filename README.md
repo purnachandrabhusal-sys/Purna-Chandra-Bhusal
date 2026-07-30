@@ -1,5 +1,5 @@
 # Purna Chandra Bhusal
 
-Academic portfolio of Purna Chandra Bhusal — Rhetoric & Writing Studies, UTEP.
+PhD Candidate in Rhetoric and Composition at the University of Texas at El Paso.
 
 
