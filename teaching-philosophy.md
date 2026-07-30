@@ -21,4 +21,3 @@ More recently, I added one more principle of teaching writing: wisdom. In my und
 
 Despite the four principles or pedagogical approaches I discussed, I believe that teaching writing is an ever-evolving philosophy in which an instructor’s job is to revise pedagogical approaches to achieve learning outcomes across changing institutional, departmental, curricular, and intellectual settings.
 
-Sample syllabi, assignment sequences, and student evaluations are available on request, and a summary appears in my [CV (PDF)]({{ site.cv_file | relative_url }}). Back to the [teaching portfolio]({{ '/teaching/' | relative_url }}).
