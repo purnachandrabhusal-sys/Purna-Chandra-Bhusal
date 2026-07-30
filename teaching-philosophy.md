@@ -5,6 +5,9 @@ lede: "How I teach writing, and why."
 permalink: /teaching-philosophy/
 description: "Teaching philosophy statement of Purna [Surname] — Rhetoric and Writing Studies, The University of Texas at El Paso."
 ---
+
+
+
      
     There are four underlying principles that inform my writing pedagogy: (1) meaningfulness, (2) students' agency, (3) rhetorical awareness, and (4) wisdom. These principles inform my design of syllabi, discussions, and assignments. 
     
