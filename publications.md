@@ -4,7 +4,7 @@ title: Publications
 lede: "Peer-reviewed work, chapters, and public scholarship."
 permalink: /publications/
 body_class: publications
-description: "Publications by Purna Chandra Bhusal — peer-reviewed articles, book chapters, and conference presentations."
+description: "Publications by Purna Chandra Bhusal — peer-reviewed articles, book reviews, conference presentations, and Public Scholarship and Media."
 ---
 
 <!-- ================================================================
