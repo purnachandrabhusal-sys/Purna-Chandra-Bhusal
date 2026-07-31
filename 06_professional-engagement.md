@@ -20,7 +20,7 @@ description: "Professional engagement of Purna Chandra Bhusal — conference ser
 
 ## Invited talks &amp; workshops
 
-To be added
+- To be added
 
 ## Service to the profession
 
@@ -28,8 +28,8 @@ To be added
      colleague as well as a scholar. Reviewing, organizing, and
      committee work all count — list them plainly. -->
 
-- Reviewer, 
--To be added
+- Reviewer
+- To be added
 
 ## Departmental &amp; university service
 
@@ -37,7 +37,7 @@ To be added
 
 ## Professional memberships
 
--To be added
+- To be added
 
 ## Community-engaged work
 
