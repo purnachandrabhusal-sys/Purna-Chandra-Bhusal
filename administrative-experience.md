@@ -31,6 +31,6 @@ description: "Administrative experience of Purna Chandra Bhusal — writing prog
 
 - **Assistant Director**, University Writing Center: Fall 2024-Fall 2025, The University of Texas at El Paso
 
-- **School Principal,** Triton International Secondary School, Kathmandu: 2016/2017
+- **Principal,** Triton International Secondary School, Kathmandu: 2016/2017
 
-- **School Principal**, Gyan Sindhu Academy, Kathmandu: 2015–2016
+- **Principal**, Gyan Sindhu Academy, Kathmandu: 2015–2016
