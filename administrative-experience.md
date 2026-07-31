@@ -3,7 +3,7 @@ layout: default
 title: Administrative Experience
 lede: "Program leadership, curriculum development, and assessment."
 permalink: /administrative-experience/
-description: "Administrative experience of Purna [Surname] — writing program administration, curriculum development, assessment, and instructor mentoring."
+description: "Administrative experience of Purna Chandra Bhusal — writing program administration, curriculum development, assessment, and instructor mentoring."
 ---
 
 <!-- ================================================================
