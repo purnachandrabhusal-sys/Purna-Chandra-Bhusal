@@ -6,9 +6,79 @@ permalink: /professional-engagement/
 description: "Professional engagement of Purna [Surname] — conference service, invited talks, professional memberships, and community-engaged work in rhetoric and writing studies."
 ---
 
+
 <!-- ================================================================
      PROFESSIONAL ENGAGEMENT
-     Coming soon
+     Two things live on this page: written entries, and photos.
+
+     TO ADD AN ENTRY: copy any line starting with "-", paste it under
+     the right heading, and change the details. Newest first.
+
+     TO ADD A PHOTO: see the instructions above the photo section
+     further down this file.
+     ================================================================ -->
+
+## Invited talks &amp; workshops
+
+- **[Talk or workshop title]** — [Host department, university or organization], [Month Year]. [One optional line on the audience or what it covered.]
+- **[Workshop title]** — [Host], [Month Year].
+
+## Service to the profession
+
+<!-- This is the section committees scan to see whether you are a
+     colleague as well as a scholar. Reviewing, organizing, and
+     committee work all count — list them plainly. -->
+
+- Reviewer, *[Journal Name]* — [Year–present].
+- [Chair / respondent / organizer], [panel or session title], [Conference name], [Year].
+- [Graduate student representative / committee member], [Committee name], [Department or organization], [Year–Year].
+
+## Departmental &amp; university service
+
+- [Role] — [Committee or program], The University of Texas at El Paso, [Year–Year]. [One line on what you did.]
+- [Role] — [Committee or program], [Year–Year].
+
+## Professional memberships
+
+- [Conference on College Composition and Communication (CCCC)]
+- [Rhetoric Society of America (RSA)]
+- [National Council of Teachers of English (NCTE)]
+
+## Community-engaged work
+
+<!-- Delete this section if it doesn't apply. If it does, it is often
+     the most memorable thing on the page — be specific about who you
+     worked with and what came of it. -->
+
+- **[Project or partner organization]**, [Year–Year]. [One or two lines: who you worked with, what you did, and what resulted.]
+
+<!-- ================================================================
+     PHOTOS — HOW TO ADD ONE
+
+     STEP 1. Prepare the photo on your computer.
+             - Save it as a .jpg
+             - Rename it with no spaces: cccc-2026-panel.jpg  (good)
+                                         CCCC 2026 panel.jpg  (bad)
+             - If it came from a phone camera it is probably far too
+               large. Resize it to about 1600 pixels wide before
+               uploading — otherwise the page will load slowly.
+
+     STEP 2. Upload it to GitHub.
+             Open the "assets" folder → click into "img" →
+             Add file → Upload files → drag the photo in → commit.
+             (If there is no "img" folder yet, see the note at the
+             bottom of this file.)
+
+     STEP 3. Copy one whole <figure> block below, paste it after the
+             last one, and change three things:
+               - the file name after /assets/img/
+               - the alt="..." text  (a plain description, for people
+                 using screen readers — it is not shown on screen)
+               - the caption between <figcaption> and </figcaption>
+
+     Always write a real caption. A photo with no caption tells a
+     search committee nothing; "Leading a workshop on multilingual
+     writing pedagogy, CCCC 2026" tells them a great deal.
      ================================================================ -->
 
 **Graduate Assistant Director**, First-Year Composition Program: Fall 2026--, The University of Texas at El Paso.
