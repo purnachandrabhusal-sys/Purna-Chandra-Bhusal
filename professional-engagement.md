@@ -3,7 +3,7 @@ layout: default
 title: Professional Engagement
 lede: "Service to the field, invited work, and professional community."
 permalink: /professional-engagement/
-description: "Professional engagement of Purna [Surname] — conference service, invited talks, professional memberships, and community-engaged work in rhetoric and writing studies."
+description: "Professional engagement of Purna Chandra Bhusal — conference service, invited talks, professional memberships, and community-engaged work in rhetoric and writing studies."
 ---
 
 
