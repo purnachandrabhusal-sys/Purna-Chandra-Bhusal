@@ -106,13 +106,10 @@ description: "Professional engagement of Purna Chandra Bhusal — conference ser
 ## Some Snapshots
 
 <img width="206" height="206" alt="Writing Center 1" src="https://github.com/user-attachments/assets/3d700a8b-ad53-4045-a37f-ea1533ba3944" />
+<img width="206" height="206" alt="CCCC 2024" src="https://github.com/user-attachments/assets/c6f66d02-04a7-4391-ab13-dafc68a2582a" />
 <img width="206" height="206" alt="Chairs Memorial Scholarship 1" src="https://github.com/user-attachments/assets/b1e12f5b-b3b1-434c-bb0d-c7f51f72f27d" />
 <img width="206" height="206" alt="CCCC SDTA" src="https://github.com/user-attachments/assets/7fd5f841-7607-4094-b571-fa7b9d1ce021" />
 <img width="206" height="206" alt="CCCC 2026" src="https://github.com/user-attachments/assets/85e9336b-4d92-4ef6-bc0c-5a9e71dac78c" />
-
-<img width="200" height="200" alt="CCW Image" src="https://github.com/user-attachments/assets/b67adbc1-3694-482e-b718-0caa495fa6f9" />
-
-<img width="206" height="206" alt="CCCC 2024" src="https://github.com/user-attachments/assets/c6f66d02-04a7-4391-ab13-dafc68a2582a" />
 
 <img width="200" height="200" alt="MLA 3" src="https://github.com/user-attachments/assets/e05fd26d-db61-44d1-8a2b-aba76a392b01" />
 
