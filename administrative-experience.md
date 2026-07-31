@@ -25,9 +25,9 @@ description: "Administrative experience of Purna Chandra Bhusal — writing prog
      (WPA) positions, say so plainly here; many rhetoric and composition
      lines are WPA-track, and committees look for this signal early. -->
 
-- **Graduate Assistant Director**, First-Year Composition Program: Fall 2026--, The University of Texas at El Paso.
+- **Assistant Director**, First-Year Composition Program: Fall 2026--, The University of Texas at El Paso.
 
-- **Graduate Assistant Director**, Rhetoric and Writing Studies Program: Fall 2025–Fall 2026, The University of Texas at El Paso
+- **Assistant Director**, Rhetoric and Writing Studies Program: Fall 2025–Fall 2026, The University of Texas at El Paso
 
 - **Assistant Director**, University Writing Center: Fall 2024-Fall 2025, The University of Texas at El Paso
 
