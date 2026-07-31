@@ -20,8 +20,7 @@ description: "Professional engagement of Purna Chandra Bhusal — conference ser
 
 ## Invited talks &amp; workshops
 
-- **[Talk or workshop title]** — [Host department, university or organization], [Month Year]. [One optional line on the audience or what it covered.]
-- **[Workshop title]** — [Host], [Month Year].
+To be added
 
 ## Service to the profession
 
@@ -29,28 +28,21 @@ description: "Professional engagement of Purna Chandra Bhusal — conference ser
      colleague as well as a scholar. Reviewing, organizing, and
      committee work all count — list them plainly. -->
 
-- Reviewer, *[Journal Name]* — [Year–present].
-- [Chair / respondent / organizer], [panel or session title], [Conference name], [Year].
-- [Graduate student representative / committee member], [Committee name], [Department or organization], [Year–Year].
+- Reviewer, 
+-To be added
 
 ## Departmental &amp; university service
 
-- [Role] — [Committee or program], The University of Texas at El Paso, [Year–Year]. [One line on what you did.]
-- [Role] — [Committee or program], [Year–Year].
+- To be added
 
 ## Professional memberships
 
-- [Conference on College Composition and Communication (CCCC)]
-- [Rhetoric Society of America (RSA)]
-- [National Council of Teachers of English (NCTE)]
+-To be added
 
 ## Community-engaged work
 
-<!-- Delete this section if it doesn't apply. If it does, it is often
-     the most memorable thing on the page — be specific about who you
-     worked with and what came of it. -->
+- To be added
 
-- **[Project or partner organization]**, [Year–Year]. [One or two lines: who you worked with, what you did, and what resulted.]
 
 <!-- ================================================================
      PHOTOS — HOW TO ADD ONE
