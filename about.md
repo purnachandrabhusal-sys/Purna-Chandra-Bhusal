@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: 1. About
 lede: "Rhetorician · teacher · [one more word that describes you]"
 permalink: /about/
 description: "About Purna [Surname] — background, research, and education."
