@@ -11,27 +11,15 @@ description: "Professional engagement of Purna [Surname] — conference service,
      Coming soon
      ================================================================ -->
 
+**Graduate Assistant Director**, First-Year Composition Program: Fall 2026--, The University of Texas at El Paso.
 
-## Invited talks &amp; workshops
+**Graduate Assistant Director**, Rhetoric and Writing Studies Program: Fall 2025–Fall 2026, The University of Texas at El Paso
 
--Coming soon
+**Assistant Director**, University Writing Center: Fall 2024-Fall 2025, The University of Texas at El Paso
 
-## Service to the profession
+**School Principal,** Triton International Secondary School, Kathmandu: 2016/2017
 
-coming soon
-
-
-## Departmental &amp; university service
-
-coming soon
-
-## Professional memberships
-
-Coming soon
-## Community-engaged work
-
-Coming soon
-
+**School Principal**, Gyan Sindhu Academy, Kathmandu: 2015–2016
 
 
 <!-- ================================================================
