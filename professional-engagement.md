@@ -81,16 +81,6 @@ description: "Professional engagement of Purna [Surname] — conference service,
      writing pedagogy, CCCC 2026" tells them a great deal.
      ================================================================ -->
 
-**Graduate Assistant Director**, First-Year Composition Program: Fall 2026--, The University of Texas at El Paso.
-
-**Graduate Assistant Director**, Rhetoric and Writing Studies Program: Fall 2025–Fall 2026, The University of Texas at El Paso
-
-**Assistant Director**, University Writing Center: Fall 2024-Fall 2025, The University of Texas at El Paso
-
-**School Principal,** Triton International Secondary School, Kathmandu: 2016/2017
-
-**School Principal**, Gyan Sindhu Academy, Kathmandu: 2015–2016
-
 
 <!-- ================================================================
      PHOTOS — HOW TO ADD ONE
