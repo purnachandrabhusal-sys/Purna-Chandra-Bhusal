@@ -1,0 +1,380 @@
+/* ==========================================================
+   purna.online — stylesheet
+   Aesthetic: a well-set university-press page. Ink on paper,
+   with "rubricated" section marks (§) in deep carmine — the
+   red ink medieval scribes reserved for headings, and the
+   color of every writing teacher's rubric.
+   ========================================================== */
+
+:root {
+  --paper:    #FCFBF7;
+  --ink:      #201E1B;
+  --graphite: #5B564D;
+  --rubric:   #1F4D33;
+  --rubric-dark: #163825;
+  --rule:     #E6E1D5;
+  --wash:     #F4F0E6;
+
+  --serif: "Literata", Georgia, "Times New Roman", serif;
+  --sans:  "Archivo", "Helvetica Neue", Arial, sans-serif;
+
+  --measure: 44rem;   /* comfortable book-page line length */
+  --wide: 62rem;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.wrap {
+  max-width: var(--wide);
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* ---------- accessibility ---------- */
+
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0.5rem 1rem;
+  z-index: 10;
+}
+.skip-link:focus { left: 0; }
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--rubric);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/* ---------- masthead ---------- */
+
+.masthead {
+  border-bottom: 1px solid var(--rule);
+  background: var(--paper);
+}
+
+.masthead-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1.5rem;
+  padding-top: 1.1rem;
+  padding-bottom: 1.1rem;
+}
+
+.wordmark {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.15rem;
+  letter-spacing: 0.01em;
+  color: var(--ink);
+  text-decoration: none;
+}
+.wordmark:hover { color: var(--rubric); }
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.35rem;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.site-nav a {
+  color: var(--graphite);
+  text-decoration: none;
+  padding: 0.2rem 0;
+  border-bottom: 2px solid transparent;
+}
+.site-nav a:hover { color: var(--ink); }
+.site-nav a[aria-current="page"] {
+  color: var(--rubric);
+  border-bottom-color: var(--rubric);
+}
+.site-nav a.nav-cv { color: var(--rubric); }
+.site-nav a.nav-cv:hover { color: var(--rubric-dark); }
+
+/* ---------- typography ---------- */
+
+main.wrap { padding: 2.75rem 1.25rem 4rem; }
+
+h1, h2, h3 {
+  font-family: var(--serif);
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  font-size: clamp(2rem, 5vw, 2.9rem);
+  font-weight: 600;
+  margin: 0 0 0.75rem;
+}
+
+/* Signature: every section heading is "rubricated" with a § mark.
+   Written pages get this automatically from plain "## Heading" markdown. */
+h2 {
+  position: relative;
+  font-size: 1.45rem;
+  font-weight: 600;
+  margin: 3rem 0 1rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+}
+h2::before {
+  content: "\00A7";           /* § */
+  color: var(--rubric);
+  font-weight: 500;
+  margin-right: 0.55rem;
+}
+@media (min-width: 74rem) {
+  h2::before {
+    position: absolute;
+    left: -2.1rem;
+    margin-right: 0;
+  }
+}
+
+h3 {
+  font-size: 1.08rem;
+  font-weight: 600;
+  margin: 1.75rem 0 0.4rem;
+}
+
+p, ul, ol { max-width: var(--measure); }
+
+a { color: var(--rubric); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { color: var(--rubric-dark); }
+
+hr { border: 0; border-top: 1px solid var(--rule); margin: 2.5rem 0; }
+
+blockquote {
+  margin: 1.5rem 0;
+  padding-left: 1.1rem;
+  border-left: 3px solid var(--rubric);
+  color: var(--graphite);
+  font-style: italic;
+  max-width: var(--measure);
+}
+
+.page-head { margin-bottom: 0.5rem; }
+.lede {
+  font-size: 1.15rem;
+  color: var(--graphite);
+  margin-top: -0.2rem;
+}
+
+/* ---------- home: hero ---------- */
+
+.hero { padding: 1.5rem 0 0.5rem; }
+
+.eyebrow {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--rubric);
+  margin: 0 0 0.9rem;
+}
+
+.hero h1 {
+  font-size: clamp(2.4rem, 6.5vw, 3.6rem);
+  margin: 0 0 1rem;
+}
+
+.hero .intro {
+  font-size: 1.18rem;
+  line-height: 1.6;
+  max-width: 40rem;
+}
+
+/* rubricated drop cap on the first intro paragraph */
+.intro::first-letter {
+  font-size: 3.1em;
+  font-weight: 600;
+  color: var(--rubric);
+  float: left;
+  line-height: 0.85;
+  padding: 0.06em 0.12em 0 0;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.6rem 0 0.5rem;
+}
+
+/* ---------- buttons ---------- */
+
+.btn {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.7rem 1.15rem;
+  border: 1.5px solid var(--ink);
+  border-radius: 3px;
+  color: var(--ink);
+  background: transparent;
+  transition: background-color 120ms ease, color 120ms ease, border-color 120ms ease;
+}
+.btn:hover { background: var(--ink); color: var(--paper); }
+
+.btn-primary {
+  background: var(--rubric);
+  border-color: var(--rubric);
+  color: #fff;
+}
+.btn-primary:hover {
+  background: var(--rubric-dark);
+  border-color: var(--rubric-dark);
+  color: #fff;
+}
+
+/* ---------- home: verify box ---------- */
+
+.verify {
+  margin: 2.75rem 0 0;
+  border: 1px solid var(--rule);
+  border-top: 3px solid var(--rubric);
+  background: var(--wash);
+  border-radius: 4px;
+  padding: 1.4rem 1.6rem 1.5rem;
+}
+
+.verify-label {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--rubric);
+  margin: 0 0 1rem;
+}
+
+.verify-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13.5rem, 1fr));
+  gap: 1.1rem 2rem;
+  max-width: none;
+}
+
+.verify-grid div { font-size: 0.98rem; line-height: 1.5; }
+
+.verify-grid dt {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--graphite);
+  margin-bottom: 0.25rem;
+}
+.verify-grid dd { margin: 0; }
+
+/* ---------- publications: hanging-indent citations ---------- */
+
+.publications main ul,
+ul.cite {
+  list-style: none;
+  padding-left: 0;
+}
+.publications main li,
+ul.cite li {
+  padding-left: 2rem;
+  text-indent: -2rem;
+  margin-bottom: 0.85rem;
+}
+
+/* ---------- cv page ---------- */
+
+.cv-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.cv-embed {
+  width: 100%;
+  height: 75vh;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+}
+@media (max-width: 44rem) {
+  .cv-embed { display: none; }  /* phones: the buttons are better */
+}
+
+.fine {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  color: var(--graphite);
+}
+
+/* ---------- tables (teaching lists etc.) ---------- */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: var(--measure);
+  font-size: 0.98rem;
+}
+th, td {
+  text-align: left;
+  padding: 0.55rem 0.9rem 0.55rem 0;
+  border-bottom: 1px solid var(--rule);
+  vertical-align: top;
+}
+th {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--graphite);
+}
+
+/* ---------- footer ---------- */
+
+.site-foot {
+  border-top: 1px solid var(--rule);
+  background: var(--wash);
+}
+.foot-inner { padding-top: 2rem; padding-bottom: 2.25rem; }
+.foot-name { font-weight: 600; margin: 0 0 0.35rem; }
+.foot-links { margin: 0 0 0.75rem; font-size: 0.95rem; }
+.foot-fine {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  color: var(--graphite);
+  margin: 0;
+}
