@@ -27,7 +27,8 @@ I am a PhD candidate in rhetoric and writing studies at the University of Texas 
 - Community-Engaged Writing
 - Qualitative Research Design
 - Rhetoric and Research
-- - Technical Writing
+- Technical Writing
+- Global South/Decolonial Rhetoric/Education
 
 ## Contact
  pbhusal@miners.utep.edu and/or purnachandra.bhusal@gmail.com
