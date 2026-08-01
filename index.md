@@ -15,9 +15,9 @@ permalink: /
 
   <h1>{{ site.author_name }}</h1>
 
-  <!-- EDIT: your two-sentence introduction. Keep it short — this is the
-       first thing a search committee reads. -->
-  <p class="intro">Scholar of [rhetoric, writing studies, and — one phrase naming your research focus]. I completed my PhD in Rhetoric and Writing Studies at The University of Texas at El Paso in [2026], where my dissertation examined [one plain-language sentence about the dissertation].</p>
+  <!-- EDIT: Welcome to my website!
+  I am Purna Chandra Bhusal, a writing teacher and researcher.
+  <p class="intro"> PhD Candidate in rhetoric and writing studies at The University of Texas at El Paso.
 
   <div class="hero-actions">
     <a class="btn btn-primary" href="{{ site.cv_file | relative_url }}">Download CV (PDF)</a>
@@ -32,25 +32,11 @@ permalink: /
   <dl class="verify-grid">
     <div>
       <dt>Degree</dt>
-      <dd>PhD, Rhetoric &amp; Writing Studies, The University of Texas at El Paso, [2026]</dd> <!-- EDIT -->
-    </div>
-    <div>
-      <dt>Dissertation</dt>
-      <dd>“[Dissertation title]” — directed by [Advisor name]</dd> <!-- EDIT -->
-    </div>
-    <div>
+      <dd>PhD, Rhetoric &amp; Writing Studies, The University of Texas at El Paso, [Expected, May 2027]
+   
       <dt>Research areas</dt>
-      <dd>[Area 1] · [Area 2] · [Area 3]</dd> <!-- EDIT -->
-    </div>
-    <div>
-      <dt>Teaching</dt>
-      <dd>[N] semesters of first-year composition and [other courses] at UTEP</dd> <!-- EDIT -->
-    </div>
-    <div>
-      <dt>Publications</dt>
-      <dd>[N] peer-reviewed articles — <a href="{{ '/publications/' | relative_url }}">see the list</a></dd> <!-- EDIT -->
-    </div>
-    <div>
+      <dd> Composition Pedagogy · Gen AI and Writing· First-Year Composition . Decolonial Education . Rhetoric & Qualitative Research
+  
       <dt>Contact</dt>
       <dd><a href="mailto:{{ site.email }}">{{ site.email }}</a> · references available on request</dd>
     </div>
