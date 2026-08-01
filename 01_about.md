@@ -21,9 +21,13 @@ I am a PhD candidate in rhetoric and writing studies at the University of Texas 
 
 ## Research interests
 
-- Writing Instruction/Composition Pedagogy
+- Composition Pedagogy
+- First-Year Composition
 - Generative Artificial Intelligence (Gen AI) and Writing
-- Decolonial Education
+- Community-Engaged Writing
+- Technical Writing
+- Qualitative Research Design
+- Rhetoric and Research
 
 ## Contact
  pbhusal@miners.utep.edu and/or purnachandra.bhusal@gmail.com
