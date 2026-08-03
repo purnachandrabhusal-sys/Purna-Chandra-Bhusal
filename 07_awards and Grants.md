@@ -11,13 +11,12 @@ description: "Awards, grants, and fellowships received by Purna [Surname]."
 
 ## Awards &amp; honors
 
-- **[Award name]**, [Granting body] — [Year]. [One optional line saying what it recognizes.]
-- **[Fellowship name]**, [University / Foundation] — [Year–Year].
+-To be added
 
 ## Grants &amp; funded projects
 
-- **[Grant name]** ([$ amount]), [Funder] — [Year]. [One line on what it funded.]
+- To be added
 
 ## Scholarships
 
-- **[Scholarship name]**, [Institution] — [Year].
+- To be added
